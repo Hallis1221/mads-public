@@ -50,11 +50,13 @@ features:
 promo:
   enable : true
   image : "images/watch.png"
-  title : "Made by creators, to the benefit for creators"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore, deleniti minima
-            nisi, velit atque quaerat impedit ea maxime sunt accusamus at obcaecati dolor iure iusto omnis quis eum.
-            <br><br>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis commodi odit, illo, qui aliquam dol"
+  title : "Get your content out there while helping fellow creators"
+  content : "Do you create content for the Minecraft Marketplace? Do you wish your content got a little more exposure 
+            and brought in a few more sales? Mads is here to help you. 
+            Get your content out there in front of other Minecraft players.
+            <br> <br>
+            We need you! We want to provide the best platform possible. To achieve that we need loads of advertisers. 
+            So we can always serve the most relevant ads for the players, ensuring maximum sales"
 
 
 ############################# About Product #######################
