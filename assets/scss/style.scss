@@ -247,13 +247,13 @@ a:active {
 
 
 /* cart */
-.cart {
+/* .cart {
   background: transparent;
   border: 0;
   position: relative;
   i{
     font-size: 20px;
-  }
+  } 
 
   @include desktop {
     position: absolute;
@@ -272,7 +272,7 @@ a:active {
     outline: 0;
   }
 }
-
+*/
 .badge-primary{
   background-color: $primary-color;
 }
