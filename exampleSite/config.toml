@@ -44,7 +44,7 @@ url = "testimonial"
 weight = 4
 [[menu.main]]
 name = "Contact"
-url = "contact"
+url = "https://discord.gg/CGWHPjYsRb"
 weight = 5
 [params]
 author = "Themefisher"
