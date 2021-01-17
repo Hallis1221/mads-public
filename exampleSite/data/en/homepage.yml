@@ -2,53 +2,48 @@
 banner:
   enable : true
   title : "Made by creators, powered by creators, for creators"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas, modi fugit in veritatis labore perferendis. Minima hic at, nostrum nihil!"
+  content : "Downloading Minecraft content should be a safe experience, not a dangerous adventure through a jungle of viruses, betting advertisements, and fake articles. Mads aims to build a safe path around the jungle and deliver a hassle-free experience, both for the creator and the end-user."
   image : "images/watch.png"
   button:
    enable : true
-   label : "Browse All Products"
+   label : "Browse All Content"
    link : "products"
 
 ############################# Feature ############################
 features:
   enable : true
-  title : "How it works"
+  title : "Mads features for you as a creator"
   image : "images/watch-2.png"
 
   # feature at the left of the image
   left_side:
     # feature item loop
-  - title : "Smooth Touch"
+  - title : "Easy To Use"
     icon : "tf-ion-ios-alarm-outline"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    content : "Mads is easy to use for you as a creator. As soon as you have a creator account up and running, you can monitor your creations in real-time from the mads dashboard."
     
     # feature item loop
-  - title : "Elegant Design"
-    icon : "tf-ion-ios-bell-outline"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+  - title : "Creator Support"
+    icon : "tf-ion-ios-bell-outline"  
+    content : "Get on hands support from the mads team on discord, with an automated bot to help you get private help from mads developers. We also aim to build a community of creators. Join today!"
     
     # feature item loop
-  - title : "Easy Pricing"
+  - title : "Content Rights"
     icon : "tf-ion-ios-cart-outline"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    content : "It is your content and will always be. Mads does not take your rights. We simply act as a middle man to help your creations today fund your works tomorrow."
 
 
   # feature at the right of the image
   right_side:
     # feature item loop
-  - title : "Smooth Touch"
+  - title : "Ease Of Mind"
     icon : "tf-ion-ios-alarm-outline"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
-
+    content : "You don't need to worry about putting your fans at risk of anything harmful. There are no betting ads, no viruses, and no fake downloads. Mads only shows safe ads for Minecraft marketplace content."
+  
     # feature item loop
-  - title : "Elegant Design"
-    icon : "tf-ion-ios-bell-outline"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
-
-    # feature item loop
-  - title : "Easy Pricing"
+  - title : "Get Paid"
     icon : "tf-ion-ios-cart-outline"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    content : "Your creations are worth something. Get paid for how much your content helps marketplace creators. Trough how many clicks you bring to their storefront, or trough how many views your content pulls. "
 
 
 ############################# promo ############################
