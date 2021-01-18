@@ -89,7 +89,7 @@ about_product:
 
 #################################### Products ########################
 products:
-  enable : true
+  enable : false
   title : "Checkout Our All Products"
 
 
