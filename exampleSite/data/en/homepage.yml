@@ -1,126 +1,112 @@
-############################# banner ############################
+---
 banner:
-  enable : true
-  title : "Made by creators, powered by creators, for creators"
-  content : "Downloading Minecraft content should be a safe experience, not a dangerous adventure through a jungle of viruses, betting advertisements, and fake articles. Mads aims to build a safe path around the jungle and deliver a hassle-free experience, both for the creator and the end-user."
-  image : "images/watch.png"
+  enable: true
+  title: Made by creators, powered by creators, for creators
+  content: Downloading Minecraft content should be a safe experience, not a dangerous
+    adventure through a jungle of viruses, betting advertisements, and fake articles.
+    Mads aims to build a safe path around the jungle and deliver a hassle-free experience,
+    both for the creator and the end-user.
+  image: images/watch.png
   button:
-   enable : true
-   label : "Browse All Content"
-   link : "products"
-
-############################# Feature ############################
+    enable: true
+    label: Browse All Content
+    link: products
 features:
-  enable : true
-  title : "Mads features for you as a creator"
-  image : "images/watch-2.png"
-
-  # feature at the left of the image
+  enable: true
+  title: Mads features for you as a creator
+  image: images/watch-2.png
   left_side:
-    # feature item loop
-  - title : "Easy To Use"
-    icon : "tf-ion-ios-alarm-outline"
-    content : "Mads is easy to use for you as a creator. As soon as you have a creator account up and running, you can monitor your creations in real-time from the mads dashboard."
-    
-    # feature item loop
-  - title : "Creator Support"
-    icon : "tf-ion-ios-bell-outline"  
-    content : "Get on hands support from the mads team on discord, with an automated bot to help you get private help from mads developers. We also aim to build a community of creators. Join today!"
-    
-    # feature item loop
-  - title : "Content Rights"
-    icon : "tf-ion-ios-cart-outline"
-    content : "It is your content and will always be. Mads does not take your rights. We simply act as a middle man to help your creations today fund your works tomorrow."
-
-
-  # feature at the right of the image
+  - title: Easy To Use
+    icon: tf-ion-ios-alarm-outline
+    content: Mads is easy to use for you as a creator. As soon as you have a creator
+      account up and running, you can monitor your creations in real-time from the
+      mads dashboard.
+  - title: Creator Support
+    icon: tf-ion-ios-bell-outline
+    content: Get hands on support from the mads team on discord, with an automated
+      bot to help you get private help from mads developers. We also aim to build
+      a community of creators. Join today!
+  - title: Content Rights
+    icon: tf-ion-ios-cart-outline
+    content: It is your content and will always be. Mads does not take your rights.
+      We simply act as a middle man to help your creations today fund your works tomorrow.
   right_side:
-    # feature item loop
-  - title : "Ease Of Mind"
-    icon : "tf-ion-ios-alarm-outline"
-    content : "You don't need to worry about putting your fans at risk of anything harmful. There are no betting ads, no viruses, and no fake downloads. Mads only shows safe ads for Minecraft marketplace content."
-  
-    # feature item loop
-  - title : "Get Paid"
-    icon : "tf-ion-ios-cart-outline"
-    content : "Your creations are worth something. Get paid for how much your content helps marketplace creators. Trough how many clicks you bring to their storefront, or trough how many views your content pulls. "
-
-
-############################# promo ############################
+  - title: Ease Of Mind
+    icon: tf-ion-ios-alarm-outline
+    content: You don't need to worry about putting your fans at risk of anything harmful.
+      There are no betting ads, no viruses, and no fake downloads. Mads only shows
+      safe ads for Minecraft marketplace content.
+  - title: Get Paid
+    icon: tf-ion-ios-cart-outline
+    content: 'Your creations are worth something. Get paid for how much your content
+      helps marketplace creators. Trough how many clicks you bring to their storefront,
+      or trough how many views your content pulls. '
 promo:
-  enable : true
-  image : "images/watch.png"
-  title : "Get your content out there while helping fellow creators"
-  content : "Do you create content for the Minecraft Marketplace? Do you wish your content got a little more exposure 
-            and brought in a few more sales? Mads is here to help you. 
-            Get your content out there in front of other Minecraft players.
-            <br> <br>
-            We need you! We want to provide the best platform possible. To achieve that we need loads of advertisers. 
-            So we can always serve the most relevant ads for the players, ensuring maximum sales"
-
-
-############################# About Product #######################
+  enable: true
+  image: images/watch.png
+  title: Get your content out there while helping fellow creators
+  content: Do you create content for the Minecraft Marketplace? Do you wish your content
+    got a little more exposure and brought in a few more sales? Mads is here to help
+    you. Get your content out there in front of other Minecraft players. <br> <br>
+    We need you! We want to provide the best platform possible. To achieve that we
+    need loads of advertisers. So we can always serve the most relevant ads for the
+    players, ensuring maximum sales
 about_product:
-  enable : true
-  title : "Why Choose Mads"
+  enable: true
+  title: Why Choose Mads
   items:
-    # about product item loop
-    - image : "images/showcase/showcase-4.png"
-      title : "Lorem ipsum dolor sit amet."
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
-            sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
-            quas, quo harum deserunt consequatur cumque!"
-      button:
-        enable : false
-        label : "Check Features"
-        link : "#"
-        
-    # about product item loop
-    - image : "images/showcase/showcase-3.png"
-      title : "Lorem ipsum dolor sit amet."
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
-            sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
-            quas, quo harum deserunt consequatur cumque!"
-      button:
-        enable : false
-        label : "Check Features"
-        link : "#"
-
-
-#################################### Products ########################
+  - image: images/showcase/showcase-4.png
+    title: Lorem ipsum dolor sit amet.
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate,
+      sed, assumenda. Tenetur sed esse, voluptas voluptate est veniam numquam, quis
+      magni. Architecto minus suscipit quas, quo harum deserunt consequatur cumque!
+    button:
+      enable: false
+      label: Check Features
+      link: "#"
+  - image: images/showcase/showcase-3.png
+    title: Lorem ipsum dolor sit amet.
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate,
+      sed, assumenda. Tenetur sed esse, voluptas voluptate est veniam numquam, quis
+      magni. Architecto minus suscipit quas, quo harum deserunt consequatur cumque!
+    button:
+      enable: false
+      label: Check Features
+      link: "#"
 products:
-  enable : false
-  title : "Checkout Our All Products"
-
-
-################################## Subscription ###################
+  enable: false
+  title: Checkout Our All Products
 subscription:
-  enable : false
-  bg_image : "images/call-to-action.jpg"
-  title : "Get Product Updates"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod"
-  placeholder : "Your Email Address Here"
-
-
-############################## Testimonial ##########################
+  enable: false
+  bg_image: images/call-to-action.jpg
+  title: Get Product Updates
+  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+  placeholder: Your Email Address Here
 testimonial:
-  enable : true
-  title : "What our partners say"
+  enable: true
+  title: What our partners say
   testimonial_item:
-    # testimonial item loop
-    - name : "Jonathon Andrew"
-      designation : "CEO, Themefisher"
-      image : "images/avater.png"
-      content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
-      
-    # testimonial item loop
-    - name : "Jonathon Andrew"
-      designation : "CEO, Themefisher"
-      image : "images/avater.png"
-      content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
-      
-    # testimonial item loop
-    - name : "Jonathon Andrew"
-      designation : "CEO, Themefisher"
-      image : "images/avater.png"
-      content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+  - name: Jonathon Andrew
+    designation: CEO, Themefisher
+    image: images/avater.png
+    content: A wonderful serenity has taken possession of my entire soul, like these
+      sweet mornings of spring which I enjoy with my whole heart. I am alone, and
+      feel the charm of existence in this spot, which was created for the bliss of
+      souls like mine. I am so happy, my dear friend, so absorbed in the exquisite
+      sense of mere tranquil existence, that I neglect my talents.
+  - name: Jonathon Andrew
+    designation: CEO, Themefisher
+    image: images/avater.png
+    content: A wonderful serenity has taken possession of my entire soul, like these
+      sweet mornings of spring which I enjoy with my whole heart. I am alone, and
+      feel the charm of existence in this spot, which was created for the bliss of
+      souls like mine. I am so happy, my dear friend, so absorbed in the exquisite
+      sense of mere tranquil existence, that I neglect my talents.
+  - name: Jonathon Andrew
+    designation: CEO, Themefisher
+    image: images/avater.png
+    content: A wonderful serenity has taken possession of my entire soul, like these
+      sweet mornings of spring which I enjoy with my whole heart. I am alone, and
+      feel the charm of existence in this spot, which was created for the bliss of
+      souls like mine. I am so happy, my dear friend, so absorbed in the exquisite
+      sense of mere tranquil existence, that I neglect my talents.
