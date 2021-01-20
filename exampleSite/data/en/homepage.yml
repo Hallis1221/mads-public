@@ -56,10 +56,11 @@ about_product:
   title: How does mads work?
   items:
   - image: images/showcase/showcase-4.png
-    title: Lorem ipsum dolor sit amet.
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate,
-      sed, assumenda. Tenetur sed esse, voluptas voluptate est veniam numquam, quis
-      magni. Architecto minus suscipit quas, quo harum deserunt consequatur cumque!
+    title: Community creator signup
+    content: 'It all starts with a community creator signing up for - and getting
+      accepted - into the mads creator program. We set a high bar for who we let in.
+      This ensures that both the community creator and the marketplace creator creates
+      family-friendly content. '
     button:
       enable: false
       label: Check Features
