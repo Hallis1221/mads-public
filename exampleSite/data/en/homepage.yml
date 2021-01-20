@@ -53,14 +53,11 @@ promo:
     players, ensuring maximum sales
 about_product:
   enable: true
-  title: How does mads work?
+  title: Learn more...
   items:
   - image: images/showcase/showcase-4.png
     title: Community creator signup
-    content: 'It all starts with a community creator signing up for - and getting
-      accepted - into the mads creator program. We set a high bar for who we let in.
-      This ensures that both the community creator and the marketplace creator creates
-      family-friendly content. '
+    content: Click to learn how
     button:
       enable: false
       label: Check Features
