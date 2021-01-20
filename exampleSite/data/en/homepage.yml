@@ -53,7 +53,7 @@ promo:
     players, ensuring maximum sales
 about_product:
   enable: true
-  title: Why Choose Mads
+  title: How does mads work?
   items:
   - image: images/showcase/showcase-4.png
     title: Lorem ipsum dolor sit amet.
