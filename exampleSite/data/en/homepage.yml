@@ -57,7 +57,8 @@ about_product:
   items:
   - image: images/showcase/showcase-4.png
     title: Community creator signup
-    content: Click to learn how
+    content: 'Click the button below to learn more about how mads works. The blog
+      post linked below describes the entire pipeline '
     button:
       enable: false
       label: Check Features
