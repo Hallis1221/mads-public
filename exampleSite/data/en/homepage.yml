@@ -76,7 +76,7 @@ about_product:
       enable: false
       label: Check Features
       link: "#"
-  - image: ''
+  - image: images/showcase/showcase-4.png
     title: ''
     content: ''
     button: ''
