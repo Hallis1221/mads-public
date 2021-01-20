@@ -63,7 +63,7 @@ about_product:
       a mads creator - or advertiser - or already is one. '
     button:
       enable: true
-      label: Check Features
+      label: How does it work
       link: "/blog/post-2"
   - image: images/showcase/showcase-3.png
     title: Lorem ipsum dolor sit amet.
