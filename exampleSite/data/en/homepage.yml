@@ -74,10 +74,6 @@ about_product:
       enable: false
       label: Check Features
       link: "#"
-  - title: ddddddddd
-    content: dddddddddddd
-    button: ''
-    image: images/showcase/showcase-3.png
 products:
   enable: false
   title: Checkout Our All Products
