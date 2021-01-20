@@ -5,6 +5,8 @@ image: images/showcase/showcase-2.png
 description: this is a meta description
 
 ---
+Want to learn about the pipeline for advertisements and content? This blog post is the most useful if you are either looking into becoming a mads creator - or advertiser - or already is one.
+
 #### **Community creator signs up.**
 
 It all starts with a community creator signing up for - and getting accepted - into the mads creator program. We set a high bar for who we let in. This ensures that both the community creator and the marketplace creator creates family-friendly content.
