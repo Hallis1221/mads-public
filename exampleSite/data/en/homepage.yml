@@ -53,7 +53,7 @@ promo:
     players, ensuring maximum sales
 about_product:
   enable: true
-  title: How Mads Works
+  title: Learn more
   items:
   - image: images/showcase/showcase-4.png
     title: How does mads work?
