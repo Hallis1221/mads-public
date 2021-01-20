@@ -67,9 +67,11 @@ about_product:
       link: "#"
   - image: images/showcase/showcase-3.png
     title: Lorem ipsum dolor sit amet.
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate,
-      sed, assumenda. Tenetur sed esse, voluptas voluptate est veniam numquam, quis
-      magni. Architecto minus suscipit quas, quo harum deserunt consequatur cumque!
+    content: 'A marketplace creator reaches out to the mads team. Either through the
+      form on the website, Twitter or discord. In either case, they have to verify
+      that they are actually representing a Minecraft marketplace partner team. If
+      verified - and accepted - they will gain access to a mads dashboard account
+      with advertiser permissions. '
     button:
       enable: false
       label: Check Features
