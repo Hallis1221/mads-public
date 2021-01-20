@@ -77,8 +77,11 @@ about_product:
       label: Check Features
       link: "#"
   - image: images/showcase/showcase-4.png
-    title: ''
-    content: ''
+    title: An ad is submitted for review
+    content: A mads account with advertiser permissions submits an ad for review.
+      A mads admin reviews the advertisement. The ad has a few properties. These properties
+      are decided by the advertiser upon submission. The ad is ready once both an
+      upfront payment has been made and the ad is accepted.
     button: ''
 products:
   enable: false
