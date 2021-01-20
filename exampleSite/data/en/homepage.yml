@@ -57,12 +57,14 @@ about_product:
   items:
   - image: images/showcase/showcase-4.png
     title: Community creator signup
-    content: 'Click the button below to learn more about how mads works. The blog
-      post linked below describes the entire pipeline '
+    content: "Click the button below to learn more about how mads works. The blog
+      post linked below describes the entire pipeline for both advertisements and
+      content. This blog post is the most useful if you are either looking into becoming
+      a mads creator - or advertiser - or already is one. \n"
     button:
       enable: false
       label: Check Features
-      link: "#"
+      link: blog/post-2/
   - image: images/showcase/showcase-3.png
     title: Marketplace creator signs up
     content: 'A marketplace creator reaches out to the mads team. Either through the
