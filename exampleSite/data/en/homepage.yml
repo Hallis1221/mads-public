@@ -64,7 +64,7 @@ about_product:
     button:
       enable: true
       label: How does it work
-      link: "/blog/post-2"
+      link: "/blog/workings"
   - image: images/showcase/showcase-3.png
     title: Lorem ipsum dolor sit amet.
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate,
