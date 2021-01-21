@@ -6,7 +6,7 @@ banner:
     adventure through a jungle of viruses, betting advertisements, and fake articles.
     Mads aims to build a safe path around the jungle and deliver a hassle-free experience,
     both for the creator and the end-user.
-  image: images/mads_contentscreen.png
+  image: images/mads_mobile_contentscreen.png
   button:
     enable: true
     label: Browse All Content
@@ -43,7 +43,7 @@ features:
       or trough how many views your content pulls. '
 promo:
   enable: true
-  image: images/watch.png
+  image: images/mads_contentscreen.png
   title: Get your content out there while helping fellow creators
   content: Do you create content for the Minecraft Marketplace? Do you wish your content
     got a little more exposure and brought in a few more sales? Mads is here to help
