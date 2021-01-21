@@ -6,7 +6,7 @@ banner:
     adventure through a jungle of viruses, betting advertisements, and fake articles.
     Mads aims to build a safe path around the jungle and deliver a hassle-free experience,
     both for the creator and the end-user.
-  image: images/watch.png
+  image: images/mads_contentscreen.png
   button:
     enable: true
     label: Browse All Content
