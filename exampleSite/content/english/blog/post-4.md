@@ -1,9 +1,9 @@
 ---
-title: "Watch That Matters"
+title: "Example post"
 date: 2019-10-17T11:22:16+06:00
 image: "images/showcase/showcase-4.png"
 description : "this is a meta description"
-draft: false
+draft: true
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
